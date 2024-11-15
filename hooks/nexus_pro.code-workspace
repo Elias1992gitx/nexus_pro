@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../nexus-labs-next/public"
+		},
+		{
+			"path": "../../nexus-labs-next/hooks"
+		}
+	],
+	"settings": {}
+}
